@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "durable-isotope-364314",
+  "private_key_id": "2aaf1b9ae228a7dc6313ac5fa4d99b4f937fc49a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsPFO9i8WbP5J3\nzloDwZOxtoa09rNnA7M2+AF2qO9KX6CO3VH6SBobA/3O+dJltOLQ2J18g3g9MH1s\n6TJDc1vPJzb9Bk84k3C0BoDDTi5mZ6k/4WhzjmiU932I39KxO66Zfg8xQG2lgs5S\nEl7aW8pjSSqOky+mOME04CHcEekn7t5M5raKnctxj6mSpvz06CyWu9TyBei1fC/M\nOEaOwxk2j6WKFddtluM2xqg2QtB51H0tAuYKYAZRd4qsZguXfbqN6Hq44yAsU3IF\nV+5X0aC1cSiLXPjLaw9dZhE9pzT0+XH/bbABPFvugpGSpGrgkvhOkObCcWcjV0ta\nFbcphMjzAgMBAAECggEAM6fuN5l9fRfeblcxsRG0IacMFKcu3DUEYXaVPcjh56zx\ngxeGuCk6xyJ100ci3oUXR6rH5OmrPLLX0zvHaupkvSbWO6HSTbYOpbeTk7/Vc7og\nTTvl705lOFRXzp7OWoB7V6aymMNpfyvRhFTlJNlFxGxTuqoTLuezro+QKCgpBOQE\n6txoi8SZeYwpxOpTFIM1BOJCZhageh9ToaTE7Fe9+Xgh+UpWno5BWiBDg9HMabeh\nJQRfR3WSRuEQP9Ielo+KkSLstDU8jNTnUkggcxZdq81lZFDPX2QpFKN4iM5v11n1\nko13jzTLXLHUJHSYoSWUDTxGCuv+0WbnctQzSfZlsQKBgQDsVsj2EMMKGku3/Bbn\n/Iazp3EzPvIVB+MK0DRxFjVR8Sn4kHMIlgGiXEJj/4KZZ7ya+X98lrHoa6BUA7IB\nIvhEYZRwfBODTZgyhwiRxbJlPFOf6qaSXrIlDoAYtmRnORi3vMwBPkahaWn21It1\nA0EkDnP6xtcjXTkAk6wPtsVrAwKBgQC6kFv6FJNH7rrvvoHcAP4b+OgInrAAPNev\nHvrpTIyGIIfGL0x4hKVH7xFMegslzNlMAlOg1WWxHNTfvGyBfSKf7Ui3p6uE2i4W\nkzOkjbWK/AqtreWjDpGkBmJ2Na1E7CRj2aD4rCZO+mC6mK6VPYIbllLJcJE1rtJH\nBwtI4FhPUQKBgG4/nceL0jAoTCIrqtPVbVDpT1lEh9FfuH4W2h/W6FCtW5Lkb4UV\n1PVUbHQRgW7mgYkZ0mrgMWXmrwgCIUt+cKoVixVeDAw4akNH0quNucaX+bqjz8h/\n/EJlHURp8TRl4i30GIaL8o7hidjnFZckSYL0aw4VK88HccvfF2jNLhLZAoGAHCO8\nC8tgr5/diF3GvoVTzqpLbUlqKI8ExUA5/khyhaSQdh8aPK9dMq1ngY6C8e+k8ucC\n8CZf0UgU/64u+5UBTPgAWNssbrxt6S/IwVAyisUbYzjwgximdQQVg9jyyouHrZvc\nwMVOfekb/+kZpB8D6d9Rm1qkPGGjC92PIS3dhBECgYEAw8jMyGuwqwsGSMH40hY2\nj/hsb/iuCQ9PCpriecrq4ncWE4mDZQXcmvJwr4znYrAifWmN/zk/F1xGDd0+oHGB\nQIf5IypSQkIGdDT/avl3YwC6aU2QeMmpbR84X6797JQVFRF94h7oQ+lT6BbQ85Os\nVpn057S7uJJ5S5dL5TJvpvg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fitocity@durable-isotope-364314.iam.gserviceaccount.com",
+  "client_id": "110373677170075513188",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fitocity%40durable-isotope-364314.iam.gserviceaccount.com"
+}

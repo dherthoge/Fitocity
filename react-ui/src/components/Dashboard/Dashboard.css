@@ -1,0 +1,16 @@
+.logoutbutton {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    background-color: inherit;
+    color: white;
+    border: none;
+    font-size: 15px;
+    padding: 0;
+}
+.logoutbutton:hover {
+    background: #000206;
+}

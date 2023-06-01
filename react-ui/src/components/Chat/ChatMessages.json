@@ -1,0 +1,51 @@
+[{
+    "id": {"$oid":"637274e358eadcce62d32c1f"},
+    "content":"Hello",
+    "Name":"Shardul Dabhane",
+    "email":"sdabhane@iu.edu",
+    "chat":{"$oid":"6372749b58eadcce62d32c19"},
+    "readBy":[],
+    "createdAt":{"$date":{"$numberLong":"1668445411353"}},
+    "updatedAt":{"$date":{"$numberLong":"1668445411353"}},
+    "__v":{"$numberInt":"0"}
+},{
+    "id": {"$oid":"637274f358eadcce62d32c24"},
+    "content":"Hi",
+    "Name":"Trainer LKK",
+    "email":"lkk@lkk.com",
+    "chat":{"$oid":"6372749b58eadcce62d32c19"},
+    "readBy":[],
+    "createdAt":{"$date":{"$numberLong":"1668445427116"}},
+    "updatedAt":{"$date":{"$numberLong":"1668445427116"}},
+    "__v":{"$numberInt":"0"}
+}, {
+    "id": {"$oid":"6372750058eadcce62d32c29"},
+    "content":"How are you doing?",
+    "Name":"Shardul Dabhane",
+    "email":"sdabhane@iu.edu",
+    "chat":{"$oid":"6372749b58eadcce62d32c19"},
+    "readBy":[],
+    "createdAt":{"$date":{"$numberLong":"1668445440843"}},
+    "updatedAt":{"$date":{"$numberLong":"1668445440843"}},
+    "__v":{"$numberInt":"0"}
+}, {
+    "id": {"$oid":"6372750b58eadcce62d32c2e"},
+    "content":"I'm fine. How about you?",
+    "Name":"Trainer LKK",
+    "email":"lkk@lkk.com",
+    "chat":{"$oid":"6372749b58eadcce62d32c19"},
+    "readBy":[],
+    "createdAt":{"$date":{"$numberLong":"1668445451624"}},
+    "updatedAt":{"$date":{"$numberLong":"1668445451624"}},
+    "__v":{"$numberInt":"0"}
+}, {
+    "id": {"$oid":"6372751458eadcce62d32c33"},
+    "content":"I'm doing well too.",
+    "Name":"Shardul Dabhane",
+    "email":"sdabhane@iu.edu",
+    "chat":{"$oid":"6372749b58eadcce62d32c19"},
+    "readBy":[],
+    "createdAt":{"$date":{"$numberLong":"1668445460321"}},
+    "updatedAt":{"$date":{"$numberLong":"1668445460321"}},
+    "__v":{"$numberInt":"0"}
+}] 
